@@ -1,0 +1,6 @@
+[11-Mar-2023 17:16:00 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/rclonenaswme/public_html/libs/db.php on line 17
+[12-Mar-2023 00:16:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/rclonenaswme/public_html/libs/db.php on line 17
+[11-Mar-2023 17:16:02 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/rclonenaswme/public_html/libs/db.php on line 17
+[12-Mar-2023 00:16:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/rclonenaswme/public_html/libs/db.php on line 17
+[11-Mar-2023 17:16:19 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/rclonenaswme/public_html/libs/db.php on line 17
+[12-Mar-2023 00:16:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/rclonenaswme/public_html/libs/db.php on line 17
